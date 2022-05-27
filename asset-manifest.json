@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fun-facts-about-react/static/css/main.f1af8943.css",
+    "main.css": "/fun-facts-about-react/static/css/main.ce854f5c.css",
     "main.js": "/fun-facts-about-react/static/js/main.86921a29.js",
     "static/media/inter-all-700-normal.woff": "/fun-facts-about-react/static/media/inter-all-700-normal.967111a4e94949e07c17.woff",
     "static/media/inter-all-600-normal.woff": "/fun-facts-about-react/static/media/inter-all-600-normal.74b76e83a7929da53075.woff",
@@ -29,11 +29,11 @@
     "static/media/logo.svg": "/fun-facts-about-react/static/media/logo.198ff35ad8d375ffc559b68ba6e85d9a.svg",
     "static/media/half-icon.svg": "/fun-facts-about-react/static/media/half-icon.8fc211f27a8ddc40e189.svg",
     "index.html": "/fun-facts-about-react/index.html",
-    "main.f1af8943.css.map": "/fun-facts-about-react/static/css/main.f1af8943.css.map",
+    "main.ce854f5c.css.map": "/fun-facts-about-react/static/css/main.ce854f5c.css.map",
     "main.86921a29.js.map": "/fun-facts-about-react/static/js/main.86921a29.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1af8943.css",
+    "static/css/main.ce854f5c.css",
     "static/js/main.86921a29.js"
   ]
 }
