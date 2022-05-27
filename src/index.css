@@ -1,13 +1,21 @@
 body {
     font-family: Inter;
-  }
-  
-  .logo-img {
+}
+
+.logo-img {
     height: 28.93px;
     width: 28.93px;
-  }
-  
-  .title {
+}
+
+.logo-text {
+  font-weight: 700;
+}
+
+.header-right {
+  font-weight: 600;
+}
+
+.title {
     width: 424px;
     height: 41px;
     font-style: normal;
@@ -15,12 +23,12 @@ body {
     font-size: 39.06px;
     line-height: 47px;
     letter-spacing: -0.05em;
-  }
-  
-  .list-item {
+}
+
+.list-item {
     height: 17.81px;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
-  }
+}
