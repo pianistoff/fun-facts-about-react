@@ -40,6 +40,9 @@ body {
 
 .main {
     padding: 36px 86px 36px 27px;
+    background-image: url(./img/half-icon.svg);
+    background-repeat: no-repeat;
+    background-position: top 107px right 0px;
 }
 
 .title {
