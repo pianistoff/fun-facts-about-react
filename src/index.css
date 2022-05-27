@@ -5,6 +5,7 @@
 body {
     font-family: Inter, sans-serif;
     margin: 0;
+    background: #282D35;
 }
 
 .header {
@@ -35,17 +36,21 @@ body {
 .header-right {
   font-weight: 600;
   color: #DEEBF8;
+}
 
+.main {
+  padding: 36px 86px 36px 27px;
 }
 
 .title {
-    width: 424px;
     height: 41px;
     font-style: normal;
     font-weight: 700;
     font-size: 39.06px;
     line-height: 47px;
     letter-spacing: -0.05em;
+    color: white;
+    margin-bottom: 46px;
 }
 
 .list-item {
@@ -54,4 +59,6 @@ body {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
+    color: white;
+    margin: 19px;
 }
