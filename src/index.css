@@ -7,6 +7,20 @@ body {
     margin: 0;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #21222A;
+  padding: 0 27px;
+  height: 91px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
 .logo-img {
     height: 28.93px;
     width: 28.93px;
@@ -14,10 +28,13 @@ body {
 
 .logo-text {
   font-weight: 700;
+  color: #61DAFB;
 }
 
 .header-right {
   font-weight: 600;
+  color: #DEEBF8;
+
 }
 
 .title {
