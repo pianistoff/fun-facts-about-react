@@ -54,6 +54,7 @@ body {
     letter-spacing: -0.05em;
     color: white;
     margin-bottom: 46px;
+    height: fit-content;
 }
 
 .list-item {
@@ -64,6 +65,7 @@ body {
     line-height: 19px;
     color: white;
     margin: 19px;
+    height: fit-content;
 }
 
 .list-item::marker {
